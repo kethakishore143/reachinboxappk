@@ -11,8 +11,8 @@ import './App.css';
 function App() {
   return (
     <Routes>
-      <Route path="/reachinboxapp" element={<Login />} />
-      <Route path="onebox" element={<Onebox />} />
+      <Route path="/reachinboxapp2" element={<Login />} />
+      <Route path="/reachinboxapp2/onebox" element={<Onebox />} />
     </Routes>
   );
 }
