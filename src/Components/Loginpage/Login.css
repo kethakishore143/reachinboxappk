@@ -1,0 +1,138 @@
+.Main-container {
+    top: 10px;
+    position: relative;
+    height: 85vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: #000000;
+
+}
+
+
+.card-container {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.login-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: Fixed (460px)px;
+    height: Hug (312px)px;
+    padding: 24px 40px 40px 40px;
+    gap: 48px;
+    border-radius: 17px 0px 0px 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    border: 1px solid var(--Border-1, #343A40);
+    background: linear-gradient(138.97deg, #111214 5.16%, #121212 105.18%);
+
+}
+
+.create-container {
+    height: 103px;
+    width: 380px;
+    gap: 24px;
+}
+
+.signup-container {
+    width: Fill (380px)px;
+    height: Hug (48px)px;
+    padding: 8px 16px 8px 16px;
+    gap: 10px;
+    border-radius: 4px 0px 0px 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    border: 1px solid #707172;
+    text-align: center;
+}
+
+.createaccount-heading {
+    font-size: 20px;
+    font-family: Open Sans;
+    color: #FFFFFF;
+    line-height: 31px;
+    text-align: center;
+}
+
+.gicon {
+
+    width: 16px;
+    height: 21px;
+    top: 5px;
+    left: 7.75px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+
+.signupgoogle-heading {
+    font-family: Open Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26.1px;
+    letter-spacing: -0.30000001192092896px;
+    text-align: center;
+    color: #FFFFFF;
+    width: 145px;
+    height: 27px;
+    gap: 0px;
+    opacity: 0px;
+    padding-left: 5px;
+
+}
+
+.createaccountbtn-container {
+    width: Fill (380px)px;
+    height: Hug (97px)px;
+    gap: 24px;
+    opacity: 0px;
+
+}
+
+.already_ac {
+    font-family: Open Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24.8px;
+    text-align: center;
+    color: #FFFFFF;
+    padding-top: 20px;
+}
+
+.sigin {
+    //styleName: Medium ;
+    font-family: Open Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24.8px;
+    text-align: center;
+    padding-top: 20px;
+
+}
+
+
+.create-ac-btn {
+    width: Hug (195px)px;
+    height: Hug (48px)px;
+    padding: 13px 35px 13px 35px;
+    gap: 10px;
+    border-radius: 4px 0px 0px 0px;
+    opacity: 0px;
+    background: linear-gradient(91.73deg, #4B63DD -2.99%, rgba(5, 36, 191, 0.99) 95.8%);
+    font-family: Open Sans;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 21.7px;
+    text-align: left;
+    color: #FFFFFF;
+
+}

@@ -1,0 +1,67 @@
+.oneboxnav-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background: #1F1F1F;
+    width: 100%;
+
+
+}
+
+.onebox-headinhg {
+    font-family: Open Sans;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 21.79px;
+    letter-spacing: -0.02em;
+    text-align: left;
+    color: #FFFFFF;
+    margin: 10px;
+
+}
+
+
+.options-container {
+    margin: 10px;
+}
+
+.Eclips {
+    width: 30px;
+    height: 30px;
+    gap: 0px;
+    opacity: 0px;
+    color: var(--Grey-2, #888686);
+    margin: 5px;
+
+}
+
+.sun-icon {
+    width: 30px;
+    height: 25px;
+    gap: 0px;
+    opacity: 0px;
+    background: #E8C364;
+    margin: 5px;
+    border-radius: 10px;
+}
+
+
+.maincards-container {
+    display: flex;
+    flex-direction: row;
+
+}
+
+.inbox-container {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.content-view-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}

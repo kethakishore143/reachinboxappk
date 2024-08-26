@@ -1,0 +1,30 @@
+.footer-c {
+    width: Fill (1, 440px)px;
+    height: Fixed (32px)px;
+    padding: 20px 100px 20px 100px;
+    gap: 10px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    background: #121212;
+    border-top: 1px solid #25262B;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.footer-content {
+    styleName: Extra Small;
+    font-family: Open Sans;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 18.6px;
+    text-align: left;
+    color: #5C5F66;
+    width: 220px;
+    height: 19px;
+    gap: 0px;
+    opacity: 0px;
+
+
+}
